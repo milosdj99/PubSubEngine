@@ -1,0 +1,14 @@
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\Subscriber.exe.config
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\Subscriber.exe
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\Subscriber.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\AES.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\Common.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\Manager.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\AES.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\Common.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\bin\Debug\Manager.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\obj\Debug\Subscriber.csproj.AssemblyReference.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\obj\Debug\Subscriber.csproj.CoreCompileInputs.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\obj\Debug\Subscriber.csproj.CopyComplete
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\obj\Debug\Subscriber.exe
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Subscriber\obj\Debug\Subscriber.pdb

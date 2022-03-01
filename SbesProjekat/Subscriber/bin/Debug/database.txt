@@ -1,0 +1,11 @@
+ID: 1 1/10/2022 8:49:56 PM: Doslo je do ERROR alarma, trenutni rizik je: 81.
+ID: 2 1/10/2022 8:50:01 PM: Doslo je do ERROR alarma, trenutni rizik je: 85.
+ID: 3 1/10/2022 8:50:06 PM: Doslo je do WARNING alarma, trenutni rizik je: 68.
+ID: 4 1/10/2022 8:50:11 PM: Doslo je do ERROR alarma, trenutni rizik je: 85.
+ID: 5 1/10/2022 8:50:16 PM: Doslo je do INFO alarma, trenutni rizik je: 60.
+ID: 6 1/10/2022 8:50:21 PM: Doslo je do ERROR alarma, trenutni rizik je: 87.
+ID: 7 1/10/2022 8:50:26 PM: Doslo je do FALSE_ALARM alarma, trenutni rizik je: 36.
+ID: 8 1/10/2022 8:50:32 PM: Doslo je do NO_ALARM alarma, trenutni rizik je: 1.
+ID: 9 1/10/2022 8:50:37 PM: Doslo je do INFO alarma, trenutni rizik je: 55.
+ID: 10 1/10/2022 8:50:42 PM: Doslo je do NO_ALARM alarma, trenutni rizik je: 12.
+ID: 11 1/10/2022 8:50:47 PM: Doslo je do NO_ALARM alarma, trenutni rizik je: 18.

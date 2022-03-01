@@ -1,0 +1,5 @@
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Common\bin\Debug\Common.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Common\bin\Debug\Common.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Common\obj\Debug\Common.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Common\obj\Debug\Common.pdb

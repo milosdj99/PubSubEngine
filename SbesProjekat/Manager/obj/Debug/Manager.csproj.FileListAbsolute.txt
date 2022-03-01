@@ -1,0 +1,11 @@
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\bin\Debug\Manager.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\bin\Debug\Manager.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\bin\Debug\Common.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\bin\Debug\Common.pdb
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\obj\Debug\Manager.AlarmMessageFile.resources
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\obj\Debug\Manager.csproj.CopyComplete
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\obj\Debug\Manager.dll
+D:\4 GOD\SEMESTAR 1\1_SBES\PROJEKAT\SBES_TIM10_9\SbesProjekat\Manager\obj\Debug\Manager.pdb
